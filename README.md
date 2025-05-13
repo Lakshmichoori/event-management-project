@@ -1,4 +1,4 @@
-# event-management-project
+![Screenshot (1)](https://github.com/user-attachments/assets/fae9476d-8b1f-44e6-880a-a46d36045662)# event-management-project
 A full stack web app for managing events with login, registration, and role-based access”
 
 # Event Management System 🗓️
@@ -40,12 +40,7 @@ event-management
 - Java Servlet and J2EE fundamentals
 - SQL database design and integration
 - Team collaboration and version control basics
-
-## 📸 Screenshots (Optional)
-
-Add screenshots of your project UI here:
-> ![Homepage Screenshot](link-to-image)
-
+- 
 ## 📬 Contact
 
 **Lakshmi Choori**  
