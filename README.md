@@ -1,4 +1,4 @@
-![Screenshot (1)](https://github.com/user-attachments/assets/fae9476d-8b1f-44e6-880a-a46d36045662)# event-management-project
+"C:\Users\lenovo\OneDrive\Pictures\Screenshots\Screenshot 2025-05-13 104547.png"
 A full stack web app for managing events with login, registration, and role-based access”
 
 # Event Management System 🗓️
